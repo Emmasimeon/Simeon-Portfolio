@@ -1,0 +1,39 @@
+body{
+  font-family: 'Lato', sans-serif;
+  font-weight: 300;
+  color: #BCBBBB;
+}
+
+.title-font{
+  font-family: 'Lato', sans-serif;
+  font-weight: 100;
+}
+
+.title-logo{
+  margin-top: 20px;
+}
+
+hr {
+  line-height: 3px;
+}
+
+h3 {
+  color: #747704;
+}
+
+a {
+  color: #BCBBBB;
+}
+  /*.image_crop {
+    width: auto;
+    height: inherit;
+  }
+
+  .logo_crop {
+    width: auto;
+    height: auto;
+  }*/
+
+.shadow {
+   box-shadow: 5px 5px 5px;
+  }
